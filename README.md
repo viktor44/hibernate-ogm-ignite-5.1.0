@@ -3,7 +3,7 @@
 This is a [Hibernate OGM](http://hibernate.org/ogm) dialect module for [Apache Ignite](https://ignite.apache.org)
 
 Supported versions:
-* Hibernate OGM 5.1.0.CR1
+* Hibernate OGM 5.1.0.Final
 * Ignite 1.8.0
 
 ## Maven
