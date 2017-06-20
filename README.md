@@ -4,7 +4,7 @@ This is a [Hibernate OGM](http://hibernate.org/ogm) dialect module for [Apache I
 
 Supported versions:
 * Hibernate OGM 5.1.0.Final
-* Ignite 1.8.0
+* Ignite 1.7.0, 1.8.0, 1.9.0
 
 ## Maven
 
